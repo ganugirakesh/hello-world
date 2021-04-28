@@ -3,3 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2>Deploying on VM <h2>
 <h2>deploying to vm using ansible<h2>
+<h2> deploying to container after deleting old image,contr <h2>
