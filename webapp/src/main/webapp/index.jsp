@@ -7,3 +7,4 @@
 <h2> testing jenkins-docker-ansible-dockerhub-dockercreate <h2>
 <h2> hello. testing poll scm <h2>
 <h2> test git pull and fetch <h2>
+<h2> test git commit <h2>
